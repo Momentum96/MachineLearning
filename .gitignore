@@ -317,3 +317,4 @@ cython_debug/
 # Data File
 *.txt
 *.csv
+*.tar.gz
