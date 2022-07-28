@@ -318,3 +318,5 @@ cython_debug/
 *.txt
 *.csv
 *.tar.gz
+*.zip
+*.jpg
