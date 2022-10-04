@@ -321,3 +321,4 @@ cython_debug/
 *.zip
 *.jpg
 *.h5
+*.xlsx
