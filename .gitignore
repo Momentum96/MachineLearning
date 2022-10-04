@@ -322,3 +322,4 @@ cython_debug/
 *.jpg
 *.h5
 *.xlsx
+*.xls
