@@ -314,12 +314,5 @@ cython_debug/
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,jupyternotebooks,pycharm,python
 
-# Data File
-*.txt
-*.csv
-*.tar.gz
-*.zip
-*.jpg
-*.h5
-*.xlsx
-*.xls
+# Data Folder
+datasets/
